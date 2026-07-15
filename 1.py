@@ -31,3 +31,6 @@ while True:
                      "content":assistant})
 
 
+
+
+#exlore github, gitlab, bitbucket, grrit,ngrok,heroku,postman- study about all that
