@@ -2,5 +2,21 @@
     {
         "role": "system",
         "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who is dikshit kumar from iit jodhpur?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have specific information on individuals unless they are widely recognized public figures. If Dikshit Kumar is a researcher or student at IIT Jodhpur, you might find more information on the official IIT Jodhpur website or through academic publications. If you have a specific question or topic related to him, feel free to ask!"
     }
 ]
