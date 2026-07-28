@@ -33,4 +33,4 @@ while True:
 
 
 
-#exlore github, gitlab, bitbucket, grrit,ngrok,heroku,postman- study about all that online 
+#exlore github, gitlab, bitbucket, grrit,ngrok,heroku,postman- study about all that online /
